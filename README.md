@@ -36,7 +36,7 @@
 
 ### 📫 Как связаться:
 <p align="left">
-  <a href="mailto:ваш.email@example.com">
+  <a href="mailto:antonshekoldin2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/ваш_телеграм">

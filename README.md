@@ -21,7 +21,6 @@
 ### 📊 Статистика:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=llw0nderfull&show_icons=true&theme=dark" alt="Статистика GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=llw0nderfull&theme=dark" alt="Стрик GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llw0nderfull&layout=compact&theme=dark" alt="Топ языков" />
 </p>
 

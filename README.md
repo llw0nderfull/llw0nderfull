@@ -35,7 +35,7 @@
 
 ### 📫 Как связаться:
 <p align="left">
-  <a href="[gmail:antonshekoldin2005@gmail.com](https://antonshekoldin2005@gmail.com)">
+  <a href="https://antonshekoldin2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/underfulll">

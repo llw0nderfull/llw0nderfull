@@ -46,26 +46,6 @@
 
 ---
 
-### 🎲 Забавный факт:
-Я люблю решать головоломки и играть в шахматы. ♟️
-
----
-
-### 🐍 Змейка, съедающая мои контрибуции:
-![Snake animation](https://github.com/llw0nderfull/llw0nderfull/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 💬 Цитата дня:
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
-
-### 🎵 Сейчас слушаю:
-[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/ваш_spotify_id)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=llw0nderfull&style=flat-square&color=blue" alt="Просмотры профиля" />
 </p>
